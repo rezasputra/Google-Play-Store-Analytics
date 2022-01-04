@@ -31,6 +31,9 @@ Semua modul tersebut dapat Anda install dengan cara :
 pip install -r requirements.txt
 ```
 
+## Deployment
+Dashboard ini telah di deploy dan dapat diakses melalui https://google-play-store-analytics.herokuapp.com/
+
 <!--
 ## Rubrics
 Pada capstone ini, Anda diharapkan untuk dapat membangun sebuah aplikasi Flask yang fokus pada tampilan user interface. Langkah pertama yang harus Anda lakukan adalah silahkan download atau clone repositori ini. File pada repositori ini merupakan sebuah skeleton untuk membuat sebuah dashboard aplikasi Flask. Pada bagian `app.py` dan `templates/index.html` ada beberapa bagian yang rumpang dan harus Anda lengkapi. Beberapa bagian yang harus diperhatikan adalah sebagai berikut:
